@@ -1,0 +1,6 @@
+/server/node_modules
+/server/variables.env
+
+/server/npm-debug.log*
+/server/yarn-debug.log*
+/server/yarn-error.log*
